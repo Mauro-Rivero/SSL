@@ -1,3 +1,5 @@
-Compilador utilizado: MSYS2
+Compilador utilizado: GCC
+
 Lenguaje C
+
 Entorno de trabajo: Visual Studio Code
