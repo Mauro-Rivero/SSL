@@ -2,7 +2,7 @@
 
 # Versión del compilador: 12.2.0 (Rev10, Built by MSYS2 project)
 
-**Estandar utilizado: std2x**
+**Estandar utilizado: std=c2x**
 
 
 Sistema Operativo: Windows
